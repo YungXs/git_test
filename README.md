@@ -1,0 +1,1 @@
+This is Sovathy'a first git project! 
